@@ -1,0 +1,161 @@
+{
+    "url_staffbooking":"https://qa.booknow.software/bnow__staffbooking",
+    "url_epos":"https://qa.booknow.software/bnow__epos",
+    "url_checkin":"https://qa.booknow.software/bnow__register",
+    "url_customersearch":"https://qa.booknow.software/bnow__customersearch",
+    "url_membership":"https://qa.booknow.software/bnow__membership",
+
+    "username":"lsim",
+    "password":"123",
+    "reset_email":"ritu1510@gmail.com",
+    "register":"Register 1 - Vanilla",
+    "site":"Activity Centre",
+    "date":"May 28, 2021",
+    "promotionalcode":"PRCODE", 
+    "promotionalcode2":"PRC",
+    "note":"Notes: This is for testing.",
+    "producttype":"Bundles",
+    "product": "Beer-Pong",
+    "itemtype":"Cafe",
+    "itemname":"Coffee",
+    "discount":"10",
+    "memebership_type":"One Time Membership",
+    "no_of_participants":"2",
+    "birthdayperson_age":"10",
+    "foodoption":"xyz",
+    "text":"Test test test test",
+    "customerfirstname":"Luke",
+    "customerlastname": "Sims",
+    "existing_user":"Ritu Ritu",
+    "giftvoucher":"Test card",
+
+    "new_giftcard":"Refunds20881",
+
+    "epositem":["Coffee","Coca-cola"],  
+    "epositem2":["AppleJuice","Raspberry Slush","AppleJuice"],
+    "newproductlist":["Onions","Raspberry Slush"],
+    "item_to_modify":" Coca-cola",
+    "firstepositem":" Coffee",
+    "secondepositem":" Coca-cola",
+    "epos_item_price":"4",
+    "epos_item_qty":"5",
+    "epos_item_dis":"20",
+
+
+    "cardholdername":"John Watson",
+    "cardnumber":"4976000000003436",
+    "expirymonth":"12",
+    "expiryyear":"2021",
+    "year":"21",
+    "cvc":"452",
+    "expiry":"12/21",
+
+    "checkin_customer_name":"Tara Sommers",		
+    "booking_number":"BKN-0000002478",
+    "checkin_customer_name2":"Edward Rzeszutko",		
+    "booking_number2":"BKN-0000002496",
+    "checkin_customer_name3":"Jason Mayette",	
+    "booking_number3":"BKN-0000002498",
+    "checkin_customer_name4":"Patricia Nordenstrom",	
+    "booking_number4":"BKN-0000002479",
+    "checkin_customer_name5":"James Green",	
+    "booking_number5":"BKN-0000002476",
+    "checkin_customer_name6":"Rosalie Keisel",
+    "booking_number6":"BKN-0000002504",
+    "checkin_customer_name7":"Luke Sims",	
+    "booking_number7":"BKN-0000002497",
+    "checkin_customer_name8":"Olga Finley",	
+    "booking_number8":"BKN-0000002499",
+    "checkin_date":"05312021",
+    "waiver":"Ritu",
+
+
+    "productlist": [
+      {"producttype": "Jump Ticket",
+        "productname":"Trampoline with Add Tax",
+        "date":"28 May 2021",
+        "quantity": "3",
+        "time":"18:00"
+      }
+      
+    ],
+    "productlist2":[ 
+      {"producttype": "Bundles",
+        "productname":"Beer-Pong",
+        "date":"28 May 2021",
+        "quantity": "1",
+        "time":"22:00"
+      }
+    ],
+    "productlist3":[
+
+      {"producttype": "Birthday",
+        "productname":"Birthday Climb",
+        "date":"28 May 2021",
+        "quantity": "5",
+        "time":"20:00"
+      }
+],
+"productlist4":[ 
+  {"producttype": "Bundles",
+    "productname":"Beer-Pong",
+    "date":"28 May 2021",
+    "quantity": "1",
+    "time":"20:30"
+  }
+],
+"productlist5":[ 
+  {"producttype": "Bundles",
+    "productname":"Beer-Pong",
+    "date":"28 May 2021",
+    "quantity": "1",
+    "time":"21:30"
+  }
+],
+"productlist6":[ 
+  {"producttype": "Bundles",
+    "productname":"Membership 1 Hour Climb",
+    "date":"28 May 2021",
+    "quantity": "1",
+    "time":"20:00"
+  }
+],
+"productlistA":[
+  {"producttype": "Bundles",
+    "productname":"Beer-Pong",
+    "date":"28 May 2021",
+    "quantity": "1",
+    "time":"19:00"
+  },
+
+  {"producttype": "Bundles",
+    "productname":"Rock Climbing",
+    "date":"28 May 2021",
+    "quantity": "1",
+    "time":"19:00"
+  }
+],
+"product_fee":[{
+  "producttype":"Other",
+  "productname":"Axe Throwing",
+  "date":"28 May 2021",
+  "quantity":"2",
+  "time":"20:00"
+}
+],
+"productlistA1":[
+  {"producttype": "Jump Ticket",
+    "productname":"1 Hour Jump",
+    "date":"29 May 2021",
+    "quantity": "1",
+    "time":"19:00"
+  }],
+    "additionalitemlist":[
+      {
+        "itemgroup":"Cafe",
+        "itemname":"Coffee",
+        "quantity":"2"
+      }
+
+    ]
+}

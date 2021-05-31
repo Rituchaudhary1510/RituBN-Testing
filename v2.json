@@ -1,0 +1,138 @@
+{
+    "url_newbooking":"https://qa.booknow.software/germany/bnow__newbooking",
+    "url_staffbooking":"https://booknow-qa.secure.force.com/germany/bnow__staffbooking",
+    "url_epos":"https://booknow-qa.secure.force.com/germany/bnow__epos",
+    "url_checkin":"https://booknow-qa.secure.force.com/germany/bnow__register",
+    "url_customersearch":"https://booknow-qa.secure.force.com/germany/bnow__customersearch",
+    "url_newwaiver":"https://testbooknow-developer-edition.eu17.force.com/bookings/bnow__newwaiver",
+    "url_membership":"https://booknow-qa.secure.force.com/germany/bnow__membership",
+    "username":"lsim",
+    "password":"123",
+    "reset_email":"ritu1510@gmail.com",
+    "register":"Germany Site - Register 1",
+    "site":"V2 - Germany",
+    "date":"May 28, 2021",
+    "promotionalcode":"PRCODE", 
+    "promotionalcode2":"PRC",
+    "promotionalcode3":"Testcard",
+    "note":"Notes: This is for testing.",
+    "producttype":"Jump Ticket",
+    "product": "1 Hour Trampoline",
+    "itemtype":"Cafe",
+    "itemname":"Apple Juice",
+    "discount":"10",
+    "birthdayperson_age":"10",
+    "foodoption":"xyz",
+    "text":"Test test test test",
+    "no_of_participants":"4",
+    "customerfirstname":"Luke",
+    "customerlastname": "Sims",
+    "existing_user":"ritu ritu",
+    "giftvoucher":"Testv2",
+    "giftvoucher2":"Test card",
+
+    "new_giftcard":"Test_refunds2885",
+
+    "epositem":["Apple Juice","Panini"],  
+    "item_to_modify":" Panini",
+    "firstepositem":" Apple Juice",
+    "secondepositem":" Panini",
+    "epos_item_price":"4",
+    "epos_item_qty":"5",
+    "epos_item_dis":"20",
+
+
+    "cardholdername":"John Watson",
+    "cardnumber":"4976000000003436",
+    "expirymonth":"12",
+    "expiryyear":"2021",
+    "year":"21",
+    "cvc":"452",
+    "expiry":"12/21",
+
+    "birthday_date":"05312021",
+    "checkin_customer_name":"ritu ritu",
+    "booking_number":"BKN-0000002524",
+    "checkin_customer_name2":"ritu ritu",
+    "booking_number2":"BKN-0000002525",	
+    "checkin_customer_name3":"ritu ritu",
+    "booking_number3":"BKN-0000001993",
+    "checkin_customer_name4":"Angela Davis",
+    "booking_number4":"BKN-0000002523",
+    "checkin_customer_name5":"Carolyn Dossett",
+    "booking_number5":"BKN-0000002522",
+    "checkin_customer_name6":"Robert Valencia",
+    "booking_number6":"BKN-0000002368",
+    "checkin_customer_name7":"Luke Sims",
+    "booking_number7":"BKN-0000002488",
+    "checkin_customer_name8":"Esther Johnson",
+    "booking_number8":"BKN-0000002535",
+    "checkin_customer_name9":"Florence Middleton",
+    "booking_number9":"BKN-0000001945",
+
+    "checkin_date":"05302021",
+    "waiver":"Ritu",
+
+    "productlist": [   
+      {"producttype": "Jump Ticket",
+        "productname":"1 Hour Trampoline",
+        "date":"05282021",
+        "quantity": "4",
+        "time":"20:00"
+      }
+],
+"productlist11": [   
+  {"producttype": "Jump Ticket",
+    "productname":"1 Hour Trampoline",
+    "date":"05282021",
+    "quantity": "2",
+    "time":"20:00"
+  }],
+  "productlist2": [   
+    {"producttype": "Jump Ticket",
+      "productname":"1 Hour Trampoline",
+      "date":"05282021",
+      "quantity": "4",
+      "time":"20:00"
+    }],
+  "productlist3": [   
+    {"producttype": "Jump Ticket",
+      "productname":"1 Hour Trampoline",
+      "date":"05282021",
+      "quantity": "4",
+      "time":"19:00"
+    }
+  
+],
+"productlist4": [   
+  {"producttype": "Birthday",
+    "productname":"Birthday Party",
+    "date":"05292021",
+    "quantity": "5",
+    "time":"18:00"
+  }],
+  "productlist5": [   
+    {"producttype": "Jump Ticket",
+      "productname":"Trampoline with Add Tax",
+      "date":"05282021",
+      "quantity": "2",
+      "time":"18:00"
+    }],
+
+    "productlist6": [   
+      {"producttype": "Jump Ticket",
+        "productname":"1 Hour Trampoline",
+        "date":"05292021",
+        "quantity": "1",
+        "time":"20:00"
+      }],
+   
+    "additionalitemlist":[
+      {
+        "itemgroup":"Cafe",
+        "itemname":"Beer",
+        "quantity":"2"
+      }
+
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "url_version3":"https://booknow-developer-edition.eu17.force.com/kiosk/s/?site=a0J1v00000IPXAoEAP",
+    "url_webstore":"https://qa-booknow.force.com/s/?site=a1L4K000000ZpKgUAK&webstore",
+    "url_kitchen":"https://qa-booknow.force.com/s/?site=a1L4K000000ZpKgUAK&selfservicetable=34",
+    "table":"34",
+    "site":"Activity Centre",
+    "payment_via":"Pay by Card",
+    "date":"28 May 2021",
+    "booking_date":"May 28, 2021",
+    "no_of_people":"1",
+    "no._of_adults":"1",
+    "no._of_children":"1",
+    "quantity_add_on1":"3",
+    "quantity_add_on2":"2",
+    "existing_customer_name":"Luke Sims",
+    "promocode":"PRCODE",
+    "giftcard":"Test card",
+    "npromocode":"prcd",
+    "item_to_delete":"Tshirt",
+    "item_to_delete_2":"Sandwich",
+
+    "existinguser_id":"lsim",
+    "existinguser_password":"123",
+    
+    "cardholdername":"John Watson",
+    "cardnumber":"4976000000003436",
+    "expirymonth":"12",
+    "expiryyear":"2021",
+    "cvc":"452",
+    "thanksnote":"Thanks for your booking. Click here to return to TopGolf.com",
+
+    "product":[
+        {"productname":"Coffee Mug",
+        "quantity":"4",
+        "minusquantity":"1"}
+            
+    ],
+    "product2":[
+        {"productname":"Tshirt",
+        "quantity":"3",
+        "minusquantity":"1"},
+
+        {"productname":"Gift Voucher",
+            "quantity":"3",
+            "minusquantity":"1"}
+                
+            
+    ],
+    "product3":[
+        {"productname":"Gift Voucher",
+        "quantity":"3",
+        "minusquantity":"1"}
+            
+    ],
+
+    "kitchenproduct":[
+        {"productname":"Sandwich",
+        "quantity":"4",
+        "minusquantity":"1"
+    },
+        {"productname":"Coffee",
+            "quantity":"4",
+            "minusquantity":"1"}
+            
+    ],
+    "kitchenproduct2":[
+        {"productname":"AppleJuice",
+        "quantity":"3",
+        "minusquantity":"1"}
+            
+    ],
+    "kitchenproduct3":[
+        {"productname":"Coffee",
+        "quantity":"3",
+        "minusquantity":"1"}
+            
+    ],
+    "productlist":[
+    {
+        "productname":"Massage Type 1",
+        "timeslot":"05:00 PM"
+    
+    }],
+    "productlist1":[
+        {
+            "productname":"Massage Type 1",
+            "timeslot":"02:00 PM"
+        
+        }
+    ],
+    "productlist2":[
+        {
+            "productname":"Massage Type 1",
+            "timeslot":"03:00 PM"
+        
+        }
+    ],
+    "productlist3":[
+        {
+        "productname":"Massage Type 1",
+        "timeslot":"04:00 PM"
+        
+        }
+    ]
+}
